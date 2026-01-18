@@ -36,6 +36,7 @@ Built on a robust semantic model with **DAX-driven KPIs**, **dynamic filtering**
 | **Responsive Design** |  desktop optimized (Fit to Width) |
 
 ## Dashboard Structure  
+(images/Info_Page.png)
 
 ### 1. **Executive Summary**  
 - **KPI Cards**: Total Deposits, Total Loans, CASA Ratio, NPA Ratio, Customer Profitability  
@@ -126,4 +127,5 @@ All files are imported via **Power Query**, cleaned, and loaded into the model.
 
 **Ready to deploy?**  
 **Publish to Power BI Service** → **Create App** → **Share with stakeholders.**
+
 
