@@ -12,7 +12,7 @@ The solution is built on a **clean, structured data model** combining banking tr
 This Power BI solution consists of **five interactive report pages**, each designed to address a specific business question.  
 The images below provide a visual preview of each page.
 
-> 🔹 Replace image paths with actual GitHub paths after uploading screenshots.
+
 
 ---
 
